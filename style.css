@@ -1,0 +1,14 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #61BC57;
+}
+
+input {
+  margin: 5px;
+  width: 10%;
+}
+
+button {
+  margin: 25px;
+}
